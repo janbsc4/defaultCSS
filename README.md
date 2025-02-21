@@ -12,7 +12,7 @@ Includes:
 ## Quick Start
 Add this line in your HTML's `<head>` section:
 ```html
-<link rel="stylesheet" href="https://janbsc4.github.io/defaultCSS/defaultCSS.css">
+<link rel="stylesheet" href="https://janbsc4.github.io/defaultCSS/default.css">
 ```
 That's it. Yes, really.
 
@@ -21,12 +21,12 @@ That's it. Yes, really.
 ### Local Download
 1. Download the CSS file:
    ```bash
-   curl -O https://janbsc4.github.io/defaultCSS/defaultCSS.css
+   curl -O https://janbsc4.github.io/defaultCSS/default.css
    ```
 2. Place it in your project directory
 3. Link it in your HTML:
    ```html
-   <link rel="stylesheet" href="path/to/defaultCSS.css">
+   <link rel="stylesheet" href="path/to/default.css">
    ```
 
 ### Git Submodule
