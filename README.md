@@ -9,11 +9,12 @@ Includes:
 - Mobile friendly
 - Easy to understand and change custom variables at the start
 
-## Quick Start (CDN)
+## Quick Start
 Add this line in your HTML's `<head>` section:
 ```html
 <link rel="stylesheet" href="https://janbsc4.github.io/defaultCSS/defaultCSS.css">
 ```
+That's it. Yes, really.
 
 ## Alternative Methods
 
