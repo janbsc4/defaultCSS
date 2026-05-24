@@ -30,12 +30,6 @@ That's it. Yes, really.
    <link rel="stylesheet" href="path/to/default.css">
    ```
 
-### Git Submodule
-If your project uses Git:
-```bash
-git submodule add https://github.com/janbsc4/defaultCSS.git
-```
-
 ## Customization
 To customize the default variables, add this to your own CSS file:
 ```css
