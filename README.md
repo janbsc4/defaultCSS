@@ -13,6 +13,7 @@ Includes:
 Add this line in your HTML's `<head>` section:
 ```html
 <link rel="stylesheet" href="https://janbalanya.com/defaultCSS/default.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 That's it. Yes, really.
 
